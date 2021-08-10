@@ -4,5 +4,5 @@ export const endpoints = {
   auth: {
     login: `${baseUrl}/`,
     register: `${baseUrl}/`,
-  }
+  },
 }
